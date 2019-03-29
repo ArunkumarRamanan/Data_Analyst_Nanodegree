@@ -14,3 +14,9 @@
 ## Side Projects
 
 - Web Crawler
+
+## Certificate
+
+The certificate can be found on [Udacity](https://confirm.udacity.com/KJ4P4AFJ).
+
+![certificate](https://github.com/maphdev/Data_Analyst_Nanodegree_Projects/blob/master/Data_Analyst_Certificate.png)
