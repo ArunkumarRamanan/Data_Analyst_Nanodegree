@@ -1,5 +1,4 @@
 # DAND_Projects
-udacity nanodegree data-analyst data-analyst-nanodegree weather-trends
 
 ## Main Projects
 
